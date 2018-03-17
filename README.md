@@ -1,3 +1,11 @@
+<p align="left">
+  <img
+    alt="electron-elements"
+    src="electron-elements.png"
+    width="100"
+  />
+</p>
+
 # electron-elements
 
 electron-elements is created to have set of custom elements to be used in
