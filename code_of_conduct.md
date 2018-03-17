@@ -1,14 +1,13 @@
-# Electron Elements Code of Conduct
+# Code of Conduct
 
-Electron Elements team is made of all volunteers who decide's to add their 
-custom elements as this org calls electron-elements. This org is meant to provide
-rich set of electron-elements that makes devloping electron apps more joyful.
+electron-elements team is made of maintainers of electron element who decide's to add their 
+custom elements made for electron apps to this org. This org is meant to provide
+rich set of electron-elements that makes devloping electron apps more enjoyable.
 
 ## Expected Behavior
 
-The following behavoirs are expected and requsted for all the individuals who
-will participate either by but not limited to Pull Request, comments in any repos 
-in this org:
+The following is expected and requsted for all the individuals who
+participate to this org:
 
   - Be polite to each other, disaggrements happens all the times.
   - Be respectful in conversations
@@ -31,12 +30,14 @@ If you think something violates code of conduct or violates the value of communi
 Please report it to `priyankp390@gmail.com`. Your info will be kept confidential but
 the report maybe made public or discussed with team members privately.
 
+Team member's if you come across any of the violation please report it the whole team
+in team discussion.
+
 ## Scope
 
-We expect this code of conduct to be followed by each and every individuals participating
-in every repository in this org.
+We expect this code of conduct to be followed by each and every
+individuals participating to this org.
 
-## License and Attribution
 ## License and Attribution
 
 This Code of Conduct is adapted from the
