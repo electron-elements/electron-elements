@@ -37,10 +37,3 @@ in team discussion.
 
 We expect this code of conduct to be followed by each and every
 individuals participating to this org.
-
-## License and Attribution
-
-This Code of Conduct is adapted from the
-[Citizen Code of Conduct](http://citizencodeofconduct.org/) and the
-[Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
-license.
