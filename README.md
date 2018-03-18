@@ -18,7 +18,7 @@ that's customizab;e and easy to use.
 ## Do you have a electron element you want to add to this org?
 
 Great we do love to add some great electron-elements.
-Follow [this guide](guides/add-an-electron-element-into-org.md) to start the process.
+Follow [this guide](guides/add-an-electron-element-to-org.md) to start the process.
 
 ## Code of Conduct
 
