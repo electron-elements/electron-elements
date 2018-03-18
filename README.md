@@ -22,6 +22,6 @@ Follow [this guide](guides/moving-repo-into-org.md) to start the process.
 
 ## Code of Conduct
 
-To make this org positive and welcoming to new members,
-we put togather a [code of conduct](code_of_conduct.md) we expect all people to follow
-it and create a postive welcoming enviorment for all the people who participte in this org.
+To make electron-elements a positive and welcoming place for everyone,
+we put togather a [code of conduct](code_of_conduct.md), which we expect all people to follow
+and create a postive, welcoming enviorment for all the people who participte in this community.
