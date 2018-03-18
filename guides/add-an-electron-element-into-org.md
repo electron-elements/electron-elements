@@ -4,8 +4,11 @@ This guide is for moving a repo in to this org, if you have a electron-element
 and want to move it into this org. Before we get started thanks for taking your time
 and creating a electron-element we greatly appreciate it.
 
-## Criteria before moving repo in
+If you have any question regarding this process, open and issue in this repo.
 
+## Criteria before moving and electron-element to this repo.
+
+  <!-- TODO: Make a team @electron-elements/helpers that will help whomever needs help -->
   - Your electron element must be working, if its work in progress and just need little bit of
   tweaks or help that we could provide from our side you can go ahead continue with process.
 
@@ -24,13 +27,15 @@ match the criteria but your repo is worth moving into org open up an issue and w
 
 Next step is to open up a issue with following details:
 
-  - The title of the issue should be `move in new electron-element: <name-of-your-electron-element>`
+  - The title of the issue should be `add a new electron-element: <name-of-your-electron-element>`
   - The body should include the link of the current repo of this element, little description about this element
 
 And done, you done all the works, and steps needed to move this repo in to org, we will followup with other details
 in the issue you opened. Feel free through read to end to get details about how published npm package into electron-elements
-npm org (No yet done).
+npm org (NPM Guide is still not done).
 
 ## Publishing and maintaing npm package of your element
 
 Yet to be written, will be done once the first repo is moved in!
+Basic steps in mind, you will be added to npm's `@electron-elements` org after you provide your npm username.
+
