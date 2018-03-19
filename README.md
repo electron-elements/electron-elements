@@ -9,11 +9,11 @@
 # electron-elements
 
 electron-elements is created to have set of custom elements to be used in
-an electron app. The main benifits of custom elements inside a electron app
-is that they don't need to be polyfilled thus creating and maintaing them easier.
-And with the great collection of electron-elements we hope to provide anyone
-creating a electron app easier way to implement some functionality
-that's customizab;e and easy to use.
+an electron app. The main benefits of custom elements inside a electron app
+is that they don't need to be polyfilled or need cross browser problems,
+thus creating and maintaing them easier. And with the great collections of 
+electron-elements we hope to provide everyone, creating an electron app easier
+way to implement some functionality that's customizable and easy to use.
 
 ## Do you have a electron element you want to add to this org?
 
