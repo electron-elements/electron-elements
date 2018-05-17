@@ -1,7 +1,6 @@
 # Code of Conduct
 
-electron-elements team is made of maintainers of electron element who decide's to add their 
-custom elements made for electron apps to this org. This org is meant to provide
+This org is meant to provide
 rich set of electron-elements that makes devloping electron apps more enjoyable.
 
 ## Expected Behavior
